@@ -1,0 +1,82 @@
+
+body{
+	background-image: url(../images/subtle_stripes.png);
+	height: : auto;
+		
+    
+}
+
+/*Add scroll bar to album cover images */
+.scroll{
+	height: 1100px;
+    overflow-y: scroll;
+    overflow-x:hidden;	 
+
+}
+.scroll-2{
+	height: 1400px;
+    overflow-y: scroll;
+    overflow-x:hidden;	
+
+}
+.scroll-3{
+	height: 1100px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
+.row-pad{
+	
+	margin-top: 10px;
+}
+
+
+/* Footer items */
+footer{
+	/*clear: both;*/
+	bottom-border: 0px;
+	position: absolute;
+	margin-top: 20px;
+}
+
+
+/* Footer social media  items */
+.image_twitter {
+		
+		
+		
+	}
+.image_facebook {
+
+						
+
+	}
+.image_skype {
+		
+		
+	}
+.row-bottom{
+	margin-bottom: 20px;
+	overflow-y: scroll; 
+    height: auto;
+}
+/* Contact Me Page */
+
+
+.box_main{
+		width: 570px;
+		height: 600px;
+		background-color: #ffffff;
+		margin-left: 40px;
+		padding-left: 20px;
+		padding-right: 20px;
+		border-width: 1px;
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+		
+	.box_header{
+
+	}
+	.box_content{
+		
+	}
